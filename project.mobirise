@@ -62,7 +62,7 @@
       "settings": {
         "main": true,
         "title": "Phobos Space - colonize the cosmos",
-        "meta_descr": "Our mission is to help advance human spaceflight and technology.",
+        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -744,7 +744,7 @@
     "technology.html": {
       "settings": {
         "title": "Technology - Phobos",
-        "meta_descr": "",
+        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1335,7 +1335,7 @@
     "vision.html": {
       "settings": {
         "title": "Vision - Phobos",
-        "meta_descr": "",
+        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2001,7 +2001,7 @@
     "about.html": {
       "settings": {
         "title": "About - Phobos",
-        "meta_descr": "",
+        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2601,7 +2601,7 @@
     "invest.html": {
       "settings": {
         "title": "Invest - Phobos",
-        "meta_descr": "",
+        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
