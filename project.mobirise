@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Phobos",
-    "currentPage": "launches.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -63,7 +63,7 @@
       "settings": {
         "main": true,
         "title": "Phobos Space - colonize the cosmos",
-        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
+        "meta_descr": "Earth was an experiment for humans. Humans tested everything here on Earth. Now we know how to build a civilization - lets start by doing it on Mars.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -746,7 +746,7 @@
     "technology.html": {
       "settings": {
         "title": "Technology - Phobos",
-        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
+        "meta_descr": "Earth was an experiment for humans. Humans tested everything here on Earth. Now we know how to build a civilization - lets start by doing it on Mars.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1338,7 +1338,7 @@
     "vision.html": {
       "settings": {
         "title": "Vision - Phobos",
-        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
+        "meta_descr": "Earth was an experiment for humans. Humans tested everything here on Earth. Now we know how to build a civilization - lets start by doing it on Mars.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2005,7 +2005,7 @@
     "about.html": {
       "settings": {
         "title": "About - Phobos",
-        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
+        "meta_descr": "Earth was an experiment for humans. Humans tested everything here on Earth. Now we know how to build a civilization - lets start by doing it on Mars.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2606,7 +2606,7 @@
     "invest.html": {
       "settings": {
         "title": "Invest - Phobos",
-        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
+        "meta_descr": "Earth was an experiment for humans. Humans tested everything here on Earth. Now we know how to build a civilization - lets start by doing it on Mars.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3199,7 +3199,7 @@
     "launches.html": {
       "settings": {
         "title": "Upcoming Launches - Phobos",
-        "meta_descr": "Space is the only way the human race can survive. Earth will not last indefinitely, but space will. We need to colonize the universe as fast as physically and humanly possible. The universe is infinite - overpopulation is not possible, and humanity would have no single point of failure.",
+        "meta_descr": "Earth was an experiment for humans. Humans tested everything here on Earth. Now we know how to build a civilization - lets start by doing it on Mars.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
