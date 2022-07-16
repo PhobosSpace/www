@@ -77,11 +77,13 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 136,
+    "uniqCompNum": 135,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "witsec-white-label": true,
-    "global_footer_custom": "<script>\nwindow.onload = function() {\n    var buttons = document.getElementsByClassName(\"btn\"),\n        len = buttons !== null ? buttons.length : 0,\n        i = 0;\n    for(i; i < len; i++) {\n        buttons[i].className += \" shadow-none\"; \n    }\n}\n</script>"
+    "global_footer_custom": "<script>\nwindow.onload = function() {\n    var buttons = document.getElementsByClassName(\"btn\"),\n        len = buttons !== null ? buttons.length : 0,\n        i = 0;\n    for(i; i < len; i++) {\n        buttons[i].className += \" shadow-none\"; \n    }\n}\n</script>",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
