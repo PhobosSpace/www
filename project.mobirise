@@ -85,7 +85,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/phobosspacelogo.png",
-    "mbrsiteDomain": "gdimdht2zj",
+    "mbrsiteDomain": "brhfiizh2h",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -97,7 +97,7 @@
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "witsec-white-label": true,
-    "global_footer_custom": "<script>\nwindow.onload = function() {\n    var buttons = document.getElementsByClassName(\"btn\"),\n        len = buttons !== null ? buttons.length : 0,\n        i = 0;\n    for(i; i < len; i++) {\n        buttons[i].className += \" shadow-none\"; \n    }\n}\n</script>",
+    "global_footer_custom": "<script>\nwindow.onload = function() {\n    var buttons = document.getElementsByClassName(\"btn\"),\n        len = buttons !== null ? buttons.length : 0,\n        i = 0;\n    for(i; i < len; i++) {\n        buttons[i].className += \" shadow-none\"; \n    }\n}\n</script>\n\n<script src=\"//instant.page/5.1.1\" type=\"module\" integrity=\"sha384-MWfCL6g1OTGsbSwfuMHc8+8J2u71/LA8dzlIN3ycajckxuZZmF+DNjdm7O6H3PSq\"></script>",
     "witsec-jquery": false
   },
   "pages": {
