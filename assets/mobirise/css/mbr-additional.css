@@ -7990,15 +7990,15 @@ a {
 .cid-tfQSZ9KKsT .navbar-toggler {
   padding-right: 12px !important;
 }
-.cid-tfEXUGSYX3 {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-  background-image: url("../../../assets/images/mbr-31.jpg");
+.cid-tg8tLlu0zw {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/mbr-23.jpg");
 }
-.cid-tfEXUGSYX3 .mbr-fallback-image.disabled {
+.cid-tg8tLlu0zw .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tfEXUGSYX3 .mbr-fallback-image {
+.cid-tg8tLlu0zw .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -8007,21 +8007,29 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tfEXUGSYX3 .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-tfEXUGSYX3 .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 70%;
-  }
-}
-.cid-tfEXUGSYX3 .mbr-section-title {
+.cid-tg8tLlu0zw .mbr-section-subtitle {
   color: #fafafa;
+  text-align: left;
 }
-.cid-tfEXUGSYX3 .mbr-text,
-.cid-tfEXUGSYX3 .mbr-section-btn {
+.cid-tg8tMbaM5e {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/pexels-leonardo-crdova-12207950.jpg");
+}
+.cid-tg8tMbaM5e .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tg8tMbaM5e .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tg8tMbaM5e .mbr-section-title {
+  text-align: left;
   color: #fafafa;
 }
 .cid-tfEXkcIYPx {
